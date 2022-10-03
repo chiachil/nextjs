@@ -1,0 +1,11 @@
+* {
+	box-sizing: border-box;
+}
+
+html,body {
+    font-family: -apple-system, Roboto,'Noto Sans TC',sans-serif;
+}
+
+a{
+    cursor: pointer;
+}

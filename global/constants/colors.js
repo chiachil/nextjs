@@ -1,0 +1,13 @@
+export const Primary1 = '#FF6700';
+export const Primary2 = '#2D2D6C';
+export const Gradient = 'linear-gradient(270deg, #FFA024 3.87%, #FF5C46 93.47%);';
+export const Secondary1 = '#212121';
+export const Secondary2 = '#6E6E6E';
+export const Secondary3 = '#898989';
+export const Secondary4 = '#CFCFCF';
+export const Teritary1 = '#EAEAF0';
+export const Teritary2 = '#F0F0F0';
+export const Teritary3 = '#F8F8F8';
+export const Teritary4 = '#FBFBFB';
+export const Teritary5 = '#FFFFFF';
+export const Error = '#FF0000';
