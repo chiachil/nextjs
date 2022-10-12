@@ -25,11 +25,14 @@ const Container = styled.div`
     padding: 32px 20px;
     margin-top: 40px;
     @media only screen and (min-width: 768px){
+        max-width:1120px;
+        margin: 0 auto;
         flex-direction: row;
         padding: 40px 20px;
         margin-top: 80px;
     }
 `
+
 const Slogan = styled.div`
     margin-bottom: 28px;
     @media only screen and (min-width: 768px){

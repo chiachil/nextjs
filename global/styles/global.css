@@ -4,8 +4,10 @@
 
 html,body {
     font-family: -apple-system, Roboto,'Noto Sans TC',sans-serif;
+    line-height: 16px;
 }
 
 a{
+    text-decoration: none;
     cursor: pointer;
 }

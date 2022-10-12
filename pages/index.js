@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import styled from 'styled-components';
-import { QuotaCard } from '../components/styles/sharedStyle';
+import QuotaCard from '../components/quotaCard';
 
 export const Test = styled.h1`
   color: red;
@@ -11,7 +11,8 @@ export default function Home() {
       <title>大哥付</title>
     </Head>
     <QuotaBox>
-      <QuotaCard />
+      <QuotaCard>
+      </QuotaCard>
     </QuotaBox>
     </>
   )

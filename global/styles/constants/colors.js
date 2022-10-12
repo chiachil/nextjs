@@ -9,5 +9,5 @@ export const Teritary1 = '#EAEAF0';
 export const Teritary2 = '#F0F0F0';
 export const Teritary3 = '#F8F8F8';
 export const Teritary4 = '#FBFBFB';
-export const Teritary5 = '#FFFFFF';
+export const Teritary5 = '#FFFFFF'; 
 export const Error = '#FF0000';
